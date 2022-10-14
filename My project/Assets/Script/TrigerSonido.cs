@@ -14,7 +14,7 @@ public class TrigerSonido : MonoBehaviour
 
     private void OnTriggerEnter(Collider other) {
       
-
+// PRUEBA
     UnityEngine.Debug.Log("Atravesando el trigger");
     if(!yaHePasado){
         yaHePasado=true;
