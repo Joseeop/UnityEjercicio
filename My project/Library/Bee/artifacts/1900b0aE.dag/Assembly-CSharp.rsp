@@ -359,6 +359,7 @@
 "Assets/3rdPerson+Fly/Scripts/LevelScripts/ThirdPersonOrbitCamBasic.cs"
 "Assets/3rdPerson+Fly/Scripts/PlayerScripts/AimBehaviourBasic.cs"
 "Assets/3rdPerson+Fly/Scripts/PlayerScripts/FlyBehaviour.cs"
+"Assets/Disparo.cs"
 "Assets/IgniteCoders/Simple Water Shader/Info/Scripts/Readme.cs"
 "Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.cs"
 "Assets/SampleScenes/Menu/Scripts/MenuSceneLoader.cs"
